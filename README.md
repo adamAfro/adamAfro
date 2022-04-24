@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @adamAfro
+- 👀 I’m interested in frontend
+- 🌱 I’m currently learning data-science
+  - doing notes in markdown and rendering them with node
